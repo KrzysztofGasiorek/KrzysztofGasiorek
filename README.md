@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrzysztofGasiorek
 - 👀 I’m a MD, PhD, interested in medical applications
-- 🌱 I’m currently learning frondend: HTML, CSS, JS; backend: Laravel, C#
+- 🌱 I’m currently learning frondend: HTML, CSS, JS; backend: Laravel; SEO, Proxmox
 - 💞️ I’m looking for collaborating on creating of medical applications like a end-user tester
 - 📫 How to reach me krzysztofgasiorek1@wp.pl
 
